@@ -1,0 +1,31 @@
+h1 {
+    color: chocolate;
+    font-weight: bold; 
+}
+.font1 {
+    font-size: 16px;
+    color: brown;
+    font-weight:bold;
+}
+.font2 {
+    font-size: 25px;
+    color: cadetblue;
+    text-align: center;
+}
+.font3 {
+    font-size: 35px;
+    color: darkcyan;
+    text-align: right;
+}
+body {
+   background-color: pink;
+}
+.about {
+    padding: 70px;
+}
+.bio {
+    margin: 50px;
+}
+.contacs {
+    border: 15px solid black
+}
