@@ -1,0 +1,9 @@
+p, h1 {
+    display: inline;
+}
+.container {
+    margin: 15px;
+    padding: 20px;
+    border: 15px solid orange;
+    display: block;
+}

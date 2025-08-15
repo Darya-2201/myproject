@@ -1,5 +1,6 @@
+/*тут указывается размер расположение текста и цвет заголовка*/
 .title {
    font-size: 24px;
    text-align: left;
-   color: green
+   color: #008000
 }
